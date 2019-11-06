@@ -1,0 +1,2 @@
+include ':app', ':base', ':login', ':register'
+rootProject.name='CompositeDemo2'
